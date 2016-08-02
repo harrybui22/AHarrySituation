@@ -294,7 +294,8 @@ div.iphone-mockup{
   position:relative;
   max-width:250px;
   margin:20px;
-  display:inline-block;
+  /*display:inline-block;*/
+  display: none;
 }
 
 .iphone-mockup img.device{
