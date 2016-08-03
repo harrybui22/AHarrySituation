@@ -26,4 +26,7 @@ jQuery(document).ready(function($) {
                 this.previousTop = currentTop;
             });
     }
+  
+  $("#overlay").css("height", $(window).height());
 });
+
